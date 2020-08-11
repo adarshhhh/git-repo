@@ -1,3 +1,3 @@
-git status --> print the status of git Repository
-git init
+git status --> print the status of Git Repository
+git init --> initializes Git Repository
 git config --global user.name "Let's kode it"
